@@ -183,13 +183,6 @@ $(function() {
                 typea: 'gym',
             },
 
-
-            {
-                position: { lat: 60.068521, lng: 30.313409 },
-                type: 'logo',
-                title: 'Жилой комплекс Континенты',
-                typea: 'logo',
-            },
             {
                 position: { lat: 60.071804, lng: 30.311962 },
                 type: 'logo1',
